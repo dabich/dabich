@@ -27,8 +27,8 @@ I'm a passionate software engineer with a strong background in web development a
 
 ## 📫 Connect with Me
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=globe&logoColor=white)](https://dabych.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabich)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrew@dabych.com)
 
 ---
 ⭐️ From [dabich](https://github.com/dabich) 
